@@ -1,2 +1,2 @@
 # Hangman
-the famous hangman game. 
+the famous hangman game. made in python with pygame 
